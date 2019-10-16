@@ -1,0 +1,12 @@
+article {
+  border: 1px solid gray;
+  text-align: center;
+}
+
+p {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  line-height: 130%;
+}
